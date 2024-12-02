@@ -1,0 +1,12 @@
+{
+  "name": "s62_super_niche_chatroom",
+  "version": "1.0.0",
+  "description": "**Project Overview** :\r A web app where people can join quirky chatrooms like _\"Overly specific phobias club\"_ or _\"NPCs with the best one liners\"_. It's a fun way to bring together over oddly specific topics, showcasing the power of community and creativity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
