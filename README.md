@@ -27,5 +27,4 @@ A web app where people can join quirky chatrooms like *"Overly specific phobias 
 - Learning to develop a full stack app with CRUD functionality, user authentication and responsive design. 
 
  3. Value : Encourages collaboration and friendship by connecting people over shared, niche interests.
-![image](https://github.com/user-attachments/assets/52f2f2fa-239f-401a-99c3-2d44151d16e5)
 
