@@ -39,7 +39,7 @@ app.delete("/:id", async (req, res) => {
   try {
     const db = await getDB();
     // console.log(db);
-    const { id } = req.params.id;
+    const { id } = req.params;
     const deleteUser = db.deleteOne({ id });
     return res.status(200).send({ message: "deleted successfully", id });
   } catch (error) {
