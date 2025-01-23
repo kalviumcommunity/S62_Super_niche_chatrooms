@@ -7,7 +7,7 @@ A web app where people can join quirky chatrooms like _"Overly specific phobias 
 
 > Key Features :
 
-1. **Chatroom directory**: A list of exisiting niche chatrooms with weird descriptions.
+1. **Chatroom directory**: A list of existing niche chatrooms with weird descriptions.
 2. **Create your own chatroom**: Users can create their own charooms by providing a name and description.
 3. **Real-time messaging**.
 4. **Search and join**: A search bar to find chatrooms by keywords or themes.
